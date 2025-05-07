@@ -5,3 +5,5 @@ Example is developed with STM32CubeIDE.
 
 ```Core/Src/main.c``` - contains all the logic
 ```Core/Inc/registers.h``` - contains FaradaIC difines for the Module 
+
+![connection](connection.jpg)
