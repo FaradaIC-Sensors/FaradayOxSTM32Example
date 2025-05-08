@@ -4,6 +4,6 @@ Example that shows how to interact with Faraday-Ox smart oxygen sensor module (F
 Example is developed with STM32CubeIDE.
 
 ```Core/Src/main.c``` - contains all the logic
-```Core/Inc/registers.h``` - contains FaradaIC difines for the Module 
+```Core/Inc/registers.h``` - contains FaradaIC defines for the Module 
 
 ![connection](connection.jpg)
