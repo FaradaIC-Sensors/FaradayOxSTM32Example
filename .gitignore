@@ -419,7 +419,6 @@ ASALocalRun/
 
 log_file.txt
 .metadata/
-.mxproject
 .settings/
 project.ioc
 mx.scratch
@@ -462,9 +461,6 @@ CTestTestfile.cmake
 !.vscode/*.code-snippets
 
 # STM32CubeMX
-.mxproject
-.cproject
-.project
 .settings/
 
 # Build outputs
