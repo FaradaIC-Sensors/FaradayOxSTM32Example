@@ -8,5 +8,6 @@ Example is developed with STM32CubeIDE.
 
 ## NOTE
 **In recent versions of modules it is required to connect VDD and VDDA**
+![pin assignment](pin_assignment.jpg)
 
 ![connection](connection.jpg)
