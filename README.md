@@ -6,4 +6,7 @@ Example is developed with STM32CubeIDE.
 ```Core/Src/main.c``` - contains all the logic
 ```Core/Inc/registers.h``` - contains FaradaIC defines for the Module 
 
+## NOTE
+**In recent versions of modules it is required to connect VDD and VDDA**
+
 ![connection](connection.jpg)
